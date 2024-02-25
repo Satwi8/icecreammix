@@ -1,0 +1,30 @@
+{
+  "name": "icecream",
+  "version": "1.0.1",
+  "description": "combine and mixing an ice cream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satwi8/icecreammix.git"
+  },
+  "keywords": [
+    "ice",
+    "cream",
+    "mixing",
+    "combine"
+  ],
+  "author": "Satwi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Satwi8/icecreammix/issues"
+  },
+  "homepage": "https://github.com/Satwi8/icecreammix#readme",
+
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
